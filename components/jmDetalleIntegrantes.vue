@@ -1,16 +1,16 @@
 <script setup>
-import semillero from "../data/Semillero_LosNadie.json";
-
-let estudiante = ref(semillero[0].integrantes.estudiantes[0]);
-
-
+const props = defineProps({
+    semillero: Object
+});
+let estudiante = ref(props.semillero.integrantes.estudiantes[0]);
 </script>
+
 <template>
   <div class="informacion">
-    <div class="w-100">
+  <div class="w-100">
         <div class="flex gap-4">
 
-          <DataTable :value="semillero[0].integrantes.estudiantes" scrollable scrollHeight="95vh" class="w-1/3"
+          <DataTable :value="props.semillero.integrantes.estudiantes" scrollable scrollHeight="95vh" class="w-1/3"
           v-model:selection="estudiante" selectionMode="single"  dataKey="nombre" :metaKeySelection="false">
             <Column field="nombre" header="Estudiantes">
               <template #body="slotProps">
