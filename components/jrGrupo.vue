@@ -1,26 +1,29 @@
+<script setup>
+
+const props = defineProps(
+    {
+  grupo: Object
+}
+)
+
+</script>
 <template>
 
-    <h1>hola</h1>
+    <h1>componentes grupos</h1>
 
     <template>
         <Card style="width: 25rem; overflow: hidden">
             <template #header>
-                <img alt="user header" src="" />
+                <img alt="logo grupos" src="https://primefaces.org/cdn/primevue/images/card-vue.jpg" />
             </template>
-            <template #title>Advanced Card</template>
-            <template #subtitle>Card subtitle</template>
+            <template #title>grupo {{ grupo.nombre }}</template>
             <template #content>
-                <p class="m-0">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore sed consequuntur error
-                    repudiandae numquam deserunt quisquam repellat libero asperiores earum nam nobis, culpa ratione quam
-                    perferendis esse, cupiditate neque
-                    quas!
-                </p>
+                <p v-for="semillero in grupo.semilleros">Semillero {{ semillero }}</p>
             </template>
             <template #footer>
                 <div class="flex gap-3 mt-1">
-                    <Button label="Cancel" severity="secondary" outlined class="w-full" />
-                    <Button label="Save" class="w-full" />
+                    <Button label="Cancelar" severity="secondary" outlined class="w-full" />
+                    <Button label="Guardar" class="w-full" />
                 </div>
             </template>
         </Card>
