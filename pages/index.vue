@@ -1,4 +1,5 @@
-<script></script>
 <template>
-  <div></div>
+  <div>
+    <integrantes/>
+  </div>
 </template>
