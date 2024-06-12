@@ -1,4 +1,3 @@
-<script></script>
-<template>
-  <div>hola</div>
-</template>
+<script>
+import Micomponente from '~/components/Micomponente.vue';
+</script>
