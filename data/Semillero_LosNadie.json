@@ -1,0 +1,401 @@
+[
+  {
+    "facultad": "Educación y Ciencias Humanas",
+    "programa": "Licenciatura en Ciencias Sociales",
+    "nombre": "Los Nadie; repensando América Latina",
+    "grupo": "Sociedad, Imaginarios, Comunicación (SIC)",
+    "tematicas": [
+      "Educación, Sociedad y Territorio",
+      "Desarrollo y gestión territorial.",
+      "Dinámicas socio históricas de las comunidades.",
+      "Movimientos y actores sociales en contextos de resiliencia y resistencia",
+      "Problemáticas socio ambientales en comunidades vulnerables",
+      "Gestión en red para la gobernanza del agua",
+      "Nuevas dinámicas de cooperación e integración en y desde el sur",
+      "Gestión de arte comunitario",
+      "Procesos educativos en la actualidad."
+    ],
+
+    "mision": "El semillero de investigación Los Nadie; Repensando América Latina, explora dinamizar la investigación y la creatividad de sus integrantes, mediante la implementación de proyectos que promuevan el desarrollo académico e investigativo del grupo, además, de motivar la creatividad y capacidad de innovar en los integrantes del semillero nuevas herramientas pedagógicas, investigativas, tecnológicas y aplicadas a la educación y a la sociedad.",
+    "vision": "En el 2026 seremos un semillero de investigación que cuente con el reconocimiento a nivel local, regional y nacional en aspectos relacionados con la Educación y la Sociedad, que propenderá por una formación, que apunte al desarrollo de las capacidades investigativas del grupo de investigación, que posibiliten aportes a las comunidades en lo atinente a las problemáticas Sociales y de Educación",
+    "objetivoGeneral": "Crear espacios académicos para que los estudiantes del semillero Los Nadie; repensando América Latina”, logren competencias investigativas que contribuyan a su formación integral, a través de la realización de actividades formativas en investigación y extensión, como pasantías, el desarrollo de proyectos, el estudio en temas sociales y de educación, el intercambio de experiencias académicas",
+    "objetivosEspecificos": [
+      "Involucrar a los estudiantes del semillero, en el grupo de investigación para que formulen y desarrollen ideas de proyectos innovadoras que estén de acuerdo con la misión del semillero",
+      "Desarrollar proyectos de investigación que permitan la aplicación y consolidación de conceptos de Educación y a la Sociedad por parte de los miembros del grupo",
+      "Estudiar diferentes áreas de investigación con el fin de tener productos de ponencias, memorias, publicación de trabajos de investigación, tesis, etc"
+    ],
+    "estrategias": [
+      "Involucrar a los estudiantes del semillero, en el grupo de investigación para que formulen y desarrollen ideas de proyectos innovadoras que estén de acuerdo con la misión del semillero",
+      "Desarrollar proyectos de investigación que permitan la aplicación y consolidación de conceptos de Educación y a la Sociedad por parte de los miembros del grupo",
+      "Estudiar diferentes áreas de investigación con el fin de tener productos de ponencias, memorias, publicación de trabajos de investigación, tesis, etc",
+      "Realizar conferencias magistrales, talleres y conversatorios entre otras actividades.",
+      "Posibilitar la participación en eventos para ponencias nacionales e internacionales"
+    ],
+
+    "actividades": [
+      "Taller: Formulación del tema, pregunta problema y objetivo general - Responsable: Por confirmar - Fecha: Por confirmar",
+      "Taller: Revisión de literatura - Responsable: Por confirmar - Fecha: Por confirmar",
+      "Taller: Redacción - Responsable: Por confirmar - Fecha: Por confirmar",
+      "Taller: Objetivos específicos de la investigación - Responsable: Por confirmar - Fecha: Por confirmar",
+      "Taller: Construcción del marco teórico - Responsable: Por confirmar - Fecha: Por confirmar",
+      "Taller: Enfoques metodológicos - Responsable: Por confirmar - Fecha: Por confirmar",
+      "Taller: Herramientas de recolección de la información - Responsables: Yamith Cuello, Alexa Galván - Fecha: Por confirmar",
+      "Taller: Sistematización de la información - Responsable: Por confirmar - Fecha: Por confirmar"
+    ],
+
+    "asesor": {
+      "nombre": "Carmen Auxiliadora Ortega Otero",
+      "identificacion": "30566684",
+      "niveldeFormacion": "Magister",
+      "telefono": "3022915339",
+      "correoElectronico": "carmenortega@correo.unicordobaedu.co"
+    },
+
+    "coordinador": {
+      "nombre": "Dominga Inés Lambraño Babilonia",
+      "identificacion": "1064606046",
+      "Semestre": "Lic. Ciencias Sociales - VI",
+      "telefono": "3234710705",
+      "correoElectronico": "domingalambranob06@gmail.com",
+      "fechadeVinculacion": "19/05/2022"
+    },
+
+    "integrantes": {
+      "docentes": [
+        {
+          "nombre": "Rosa Inés Babilonia Ballesteros",
+          "identificacion": "1063151579",
+          "niveldeFormacion": "Magister(Asesor)",
+          "telefono": "30585635225",
+          "correoElectronico": "ribabilonia@uc.cl",
+          "fechadeVinculacion": "30/03/2022"
+        },
+        {
+          "nombre": "Adrián José Vergara Berrocal",
+          "identificacion": "1003178977",
+          "niveldeFormacion": "Lic. Ciencias Sociales(Asesor externo)",
+          "telefono": "3146881955",
+          "correoElectronico": "Avergaraberrocal@correo.unicordoba.edu.co",
+          "fechadeVinculacion": "30/03/2022"
+        }
+      ],
+
+      "egresados": [],
+
+      "estudiantes": [
+        {
+          "nombre": "Ángel Blanquicet Revueltas",
+          "identificacion": "1003046309",
+          "niveldeFormacion": "Lic. Ciencias Sociales - X",
+          "telefono": "3237325213",
+          "correoElectronico": "blanquicethangel@gmail.com",
+          "fechadeVinculacion": "18/03/2023"
+        },
+        {
+          "nombre": "Andrés Camilo Tirado Martínez",
+          "identificacion": "1067963324",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VII",
+          "telefono": "3245708136",
+          "correoElectronico": "andrestirado32@gmail.com",
+          "fechadeVinculacion": "05/08/2023"
+        },
+        {
+          "nombre": "Andrés López Acosta",
+          "identificacion": "1193441356",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VIII",
+          "telefono": "3114047936",
+          "correoElectronico": "lopedres36@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "Angie Teresa Naranjo Martínez",
+          "identificacion": "1038099284",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VII",
+          "telefono": "3016148438",
+          "correoElectronico": "naranjoangie0218@gmail.com",
+          "fechadeVinculacion": "21/03/2024"
+        },
+        {
+          "nombre": "Arleth Patricia Lozano campo",
+          "identificacion": "1063151579",
+          "niveldeFormacion": "Magister(Asesor)",
+          "telefono": "30585635225",
+          "correoElectronico": "ribabilonia@uc.cl",
+          "fechadeVinculacion": "30/03/2022"
+        },
+        {
+          "nombre": "César Luis Hoyos Medina",
+          "identificacion": "1062434818",
+          "niveldeFormacion": "Derecho - I, Lic. Ciencias Sociales - X",
+          "telefono": "3212229192",
+          "correoElectronico": "Hoyosmedinacesarluis@gmail.com",
+          "fechadeVinculacion": "21/03/2024"
+        },
+        {
+          "nombre": "Daniel Andrés Salas Álvarez",
+          "identificacion": "1233345022",
+          "niveldeFormacion": "Lic. Ciencias Sociales - IX",
+          "telefono": "3044050575",
+          "correoElectronico": "dsalasalvarez22@correo.unicordoba.edu.co",
+          "fechadeVinculacion": "30/03/2022"
+        },
+        {
+          "nombre": "Eva Sandrith Caldera Barrios",
+          "identificacion": "1003499875",
+          "niveldeFormacion": "Lic. Ciencias Sociales - X",
+          "telefono": "3147062517",
+          "correoElectronico": "sandrithcaldera99@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "Javier David Gorrostola Camargo",
+          "identificacion": "1003006034",
+          "niveldeFormacion": "Derecho - VII",
+          "telefono": "3016129835",
+          "correoElectronico": "jgorrostolacamargo@correo.unicordoba.edu.co",
+          "fechadeVinculacion": "30/03/2022"
+        },
+        {
+          "nombre": "Juana Miranda Durango",
+          "identificacion": "1003408763",
+          "niveldeFormacion": "Lic. Ciencias Sociales - X",
+          "telefono": "3214264702",
+          "correoElectronico": "Mirandajuana36@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "Karla Bedoya Avilez",
+          "identificacion": "1066722422",
+          "niveldeFormacion": "Derecho - V",
+          "telefono": "3008263515",
+          "correoElectronico": "Kbedoayavilez22@correo.unicordoba.edu.co",
+          "fechadeVinculacion": "01/12/2022"
+        },
+        {
+          "nombre": "Keren Esther Bello Guillén",
+          "identificacion": "1003158421",
+          "niveldeFormacion": "Lic. Ciencias Sociales - IX",
+          "telefono": "3023795837",
+          "correoElectronico": "kerenbello17@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "María Alejandra Bermúdez Paternina",
+          "identificacion": "1062425152",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VII",
+          "telefono": "3103807547",
+          "correoElectronico": "mariaalejandrabermudez20@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "María Guerra Petro",
+          "identificacion": "1073817793",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VIII",
+          "telefono": "3158894072",
+          "correoElectronico": "guerramariadelcarmen@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "María Paulina Díaz Oyola",
+          "identificacion": "1073813680",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VIII",
+          "telefono": "3205893082",
+          "correoElectronico": "diazoyolapaula@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "Marian Sofía Pacheco Royo",
+          "identificacion": "1003005078",
+          "niveldeFormacion": "Lic. Ciencias Sociales - IX",
+          "telefono": "3235947140",
+          "correoElectronico": "Mpachecoroyo78@correo.unicordoba.edu.co",
+          "fechadeVinculacion": "17/05/2022"
+        },
+        {
+          "nombre": "Mauricio Andrés Cogollo Cogollo",
+          "identificacion": "1073810270",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VIII",
+          "telefono": "3242743366",
+          "correoElectronico": "maurico.ociuram@gmail.com",
+          "fechadeVinculacion": "21/03/2024"
+        },
+        {
+          "nombre": "Melissa Arroyave Colon",
+          "identificacion": "1051658308",
+          "niveldeFormacion": "Lic. Ciencias Sociales - V",
+          "telefono": "3245847262",
+          "correoElectronico": "maac9plus@gmail.com",
+          "fechadeVinculacion": "08/02/2023"
+        },
+        {
+          "nombre": "Melanis Judith Ortega Rivero",
+          "identificacion": "1007822924",
+          "niveldeFormacion": "Lic. Ciencias Sociales - X",
+          "telefono": "3006003657",
+          "correoElectronico": "mortegarivero24@correo.unicordoba.edu.co",
+          "fechadeVinculacion": "30/03/2022"
+        },
+        {
+          "nombre": "Naylen Yaramel Espinosa León",
+          "identificacion": "1003046850",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VIII",
+          "telefono": "3145637434",
+          "correoElectronico": "naylenespinosa25@gmail.com",
+          "fechadeVinculacion": "05/08/2023"
+        },
+        {
+          "nombre": "Natalia Guerra Petro",
+          "identificacion": "1073817794",
+          "niveldeFormacion": "Lic. Ciencias Naturales y Educación Ambiental - V",
+          "telefono": "3108440259",
+          "correoElectronico": "n9783828@gmail.com",
+          "fechadeVinculacion": "20/09/2023"
+        },
+        {
+          "nombre": "Pilar Sandrith Méndez de la Ossa",
+          "identificacion": "1003127220",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VII",
+          "telefono": "3223161943",
+          "correoElectronico": "Pilylunanegra08@gmail.com",
+          "fechadeVinculacion": "05/08/2023"
+        },
+        {
+          "nombre": "Wendy Vanessa Pereira Durango",
+          "identificacion": "1003431818",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VI",
+          "telefono": "3202684374",
+          "correoElectronico": "PEREIRADURANGOWENDY@GMAIL.COM",
+          "fechadeVinculacion": "21/03/2024"
+        },
+        {
+          "nombre": "William Andrés Díaz Díaz",
+          "identificacion": "1062954056",
+          "niveldeFormacion": "Lic. Ciencias Sociales - VI",
+          "telefono": "3104506771",
+          "correoElectronico": "wdiazdiaz@correo.unicordoba.edu.co",
+          "fechadeVinculacion": "05/08/2023"
+        },
+        {
+          "nombre": "Yiseth Hernández Gulfo",
+          "identificacion": "1003191953",
+          "niveldeFormacion": "Lic. Ciencias Sociales - X",
+          "telefono": "3215013991",
+          "correoElectronico": "yisethhernandez2345@gmail.com",
+          "fechadeVinculacion": "20/09/2022"
+        }
+      ]
+    },
+
+    "proyectos": [
+      {
+        "nombre": "Análisis de los factores de riesgo asociados al suicidio en la universidad de Córdoba – María Guerra Petro & Andrés López Acosta",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Perspectivas del liderazgo femenino, influencia de la mujer rural en la fundación y desarrollo de la vereda Galilea – Melanis Ortega Rivero",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Galilea, tierra prometida: un análisis desde la geografía de la percepción – Rosa Babilonia Ballesteros, Adrián Vergara Berrocal y Melanis Ortega Rivero",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "La protesta social, como mecanismo para afrontar las problemáticas socio ambientales en la comunidad Loma Grande de Montería-Córdoba – Eva Caldera Barrios",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Educación y resiliencia de las “familias hicoteas” en la Mojana cordobesa; un análisis a su contexto sociogeográfico – Adrián Vergara Berrocal y Carmen Ortega Otero",
+        "tipo": "Proyecto de investigación",
+        "estado": "Finalizado",
+        "campoSaber": "Educación"
+      },
+      {
+        "nombre": "Enseñanza de la geografía en escuelas públicas de Cerete desde una perspectiva didáctica -pedagógica -José Almanza Causil",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Incidencia del arte (murales-rap) en comunidades afectadas por problemáticas sociales El Cerro, Montería – Mariam Pacheco Royo",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "El bollo dulce como representación cultural del rol de la mujer en la comunidad del corregimiento de Martínez – Yiseth Hernández Gulfo",
+        "tipo": "Proyecto de investigación",
+        "estado": "Propuesta de investigación",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "La identidad cultural de la comunidad urbana del municipio de San Rafael de Chinú, Córdoba – Keren Bello Guillén",
+        "tipo": "Proyecto de investigación",
+        "estado": "Propuesta de investigación",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Estudio sociocultural de la población ROM o GITANA en el Municipio de San Pelayo- Córdoba: Desde un análisis normativo – María Bermúdez Paternina",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Fortalecimiento de estrategias de resiliencia comunitaria para el desarrollo económico y territorial rural en el corregimiento de Bongamella, San Pelayo – Córdoba.",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Radicalización del movimiento estudiantil de la universidad de Córdoba 1960-1970 – Daniel Andrés Salas",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Rap al parque - Batallas de rap - Ángel Blanquicet Revueltas",
+        "tipo": "No aplica",
+        "estado": "En curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "La naturaleza del suicidio: una arqueología sobre su representación discursiva en las escuelas de pensamiento de la civilización griega – Dominga Lambraño Babilonia",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Córdoba verte verde – Javier Gorrostola Camargo",
+        "tipo": "Proyecto de investigación",
+        "estado": "Investigación en curso",
+        "campoSaber": "Sociedad"
+      },
+      {
+        "nombre": "Falta de cultura ciudadana en la movilidad de Montería - Mauricio Andrés Cogollo Cogollo",
+        "tipo": "Proyecto de investigación",
+        "estado": "Propuesta de investigación",
+        "campoSaber": "Sociedad"
+      }
+    ],
+
+    "publicaciones": [
+      {
+        "titulo": "Percepciones sobre la educación en La Mojana: un análisis socioespacial desde el mundo vivido en Sincelejito",
+        "anio": "2024",
+        "medio": "Revista: Vergara Berrocal, A. J., & Ortega Otero, C. A. (2024). Percepciones sobre la educación en La Mojana: un análisis socioespacial desde el mundo vivido en Sincelejito. Ciencia Latina Revista Científica Multidisciplinar, 8(1), 1718-1743. https://doi.org/10.37811/cl_rcm.v8i1.9567"
+      },
+      {
+        "titulo": "Qualitative indicators for communitywater resilience in floodable areas: Agricultural pantry of La Mojana, Colombia",
+        "anio": "2023",
+        "medio": "Revista: Taborda, A., Sepúlveda, R. & Ortega, C. (2023). Qualitative indicators for communitywater resilience in floodable areas: Agricultural pantry of La Mojana, Colombia. Economia agro-alimentare /Food Economy. Vol. 25, Iss. 1, Art. 7, pp. 93-119. https://doi.org/10.3280/ecag2023oa14638"
+      }
+    ]
+  }
+]
