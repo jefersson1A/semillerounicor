@@ -1,6 +1,5 @@
 <template>
-    <OrganizationChart v-model:selectionKeys="selection" :value="data" collapsible selectionMode="multiple">
-        <template #person="slotProps">
+    <OrganizationChart v-model:selectionKeys="selection" :value="data" collapsible selectionMode="multiple">        <template #person="slotProps">
             <div class="flex flex-column">
                 <div class="flex flex-column align-items-center">
                     <img :alt="slotProps.node.data.name" :src="slotProps.node.data.image" class="mb-3 w-3rem h-3rem" />
@@ -16,8 +15,6 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
-
 const integrantes = [
     {
         asesor: "andres franco",
@@ -28,8 +25,6 @@ const integrantes = [
         nivelacademico: "magister"
     }
 ];
-
-// Transformar los datos originales al formato esperado por OrganizationChart
 const data = ref({
     key: '0',
     type: 'person',
@@ -58,5 +53,4 @@ const selection = ref({});
 </script>
 
 <style>
-/* Añade estilos específicos para tu componente si es necesario */
 </style>
