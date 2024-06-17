@@ -1,3 +1,6 @@
-<script>
-import Micomponente from '~/components/Micomponente.vue';
-</script>
+<script setup></script>
+<template>
+  <div>
+    <integrantes/>
+  </div>
+</template>
