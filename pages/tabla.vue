@@ -1,5 +1,9 @@
+<script setup>
+import dataSemilleros from '../data/dataSemilleros'
+</script>
+
 <template>
     <div>
-      <Micomponente />
+      <Micomponente :semillero="dataSemilleros"/>
     </div>      
-</template>
+</template> 
