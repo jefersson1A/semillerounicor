@@ -18,6 +18,6 @@ const grupo = {
 
  </script>
 <template>
-    <h1>grupos</h1>
+    <h1>Grupos</h1>
     <jrGrupo :grupo="grupo" />
 </template>
