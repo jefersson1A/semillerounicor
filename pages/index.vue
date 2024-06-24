@@ -1,5 +1,6 @@
-<script></script>
+<script setup></script>
 <template>
-  <NuxtLink to="jrGrupos">Grupos de jefersson</NuxtLink>
-  <div></div>
+  <div>
+    <integrantes/>
+  </div>
 </template>
