@@ -4,7 +4,14 @@ const grupo = {
     facultad: "Educación y Ciencias Humanas",
     semilleros: [
         {
-            nombre: "AVI"
+            nombre: "AVI",
+            cantIntegrantes: 15,
+            cantProyectos: 10
+        },
+        {
+            nombre: "Lab. de IA",
+            cantIntegrantes: 8,
+            cantProyectos: 5
         }
     ]
 }

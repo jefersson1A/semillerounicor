@@ -18,13 +18,15 @@ const props = defineProps(
             </template>
             <template #title>grupo {{ grupo.nombre }}</template>
             <template #content>
-                <p v-for="semillero in grupo.semilleros">Semillero {{ semillero }}</p>
+                <p v-for="semillero in grupo.semilleros">
+                    <p>Semillero {{ semillero.nombre }} </p>
+                    <p>Integrantes {{ semillero.cantIntegrantes }} </p>
+                    <p>Proyectos {{ semillero.cantProyectos }} </p>
+                    <Divider />
+                </p>
             </template>
             <template #footer>
-                <div class="flex gap-3 mt-1">
-                    <Button label="Cancelar" severity="secondary" outlined class="w-full" />
-                    <Button label="Guardar" class="w-full" />
-                </div>
+      
             </template>
         </Card>
     </template>
